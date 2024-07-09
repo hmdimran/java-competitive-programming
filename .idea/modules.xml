@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LearnJavaForWeb/LearnJavaForWeb.iml" filepath="$PROJECT_DIR$/LearnJavaForWeb/LearnJavaForWeb.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-competitive-programming.iml" filepath="$PROJECT_DIR$/java-competitive-programming.iml" />
     </modules>
   </component>
